@@ -1,0 +1,149 @@
+country,region,state,year,specie,codsp,tlmean (cm),flmean (cm),twind (kg),gear,codgr,author
+BRA,,,1950,,,,,,,,
+BRA,,,1951,,,,,,,,
+BRA,,,1952,,,,,,,,
+BRA,,,1953,,,,,,,,
+BRA,,,1954,,,,,,,,
+BRA,,,1955,,,,,,,,
+BRA,,,1956,,,,,,,,
+BRA,,,1957,,,,,,,,
+BRA,,,1958,,,,,,,,
+BRA,,,1959,,,,,,,,
+BRA,,,1960,,,,,,,,
+BRA,,,1961,,,,,,,,
+BRA,,,1962,,,,,,,,
+BRA,NE,CE,1963,Scomberomorus brasiliensis,BRS,,65.05,,Trolling,TR,Costa & Paiva (1964)
+BRA,NE,CE,1963,Scomberomorus cavalla,KGM,,90,,Trolling,TR,Costa & Paiva (1964)
+BRA,NE,ALL,1964,Thunnus atlanticus,BLF,,65.5,,Unclear,UN,Cruz & Paiva (1964)
+BRA,NE,ALL,1964,Thunnus atlanticus,BLF,,65.6,,Unclear,UN,Monte (1964)
+BRA,NE,CE,1964,Scomberomorus cavalla,KGM,,85.5,,Trolling,TR,Costa & Paiva (1965)
+BRA,NE,MA,1965,Scomberomorus cavalla,KGM,,80.5,,Trolling,TR,Nomura & Costa (1966)
+BRA,NE,MA,1965,Scomberomorus brasiliensis,BRS,,49.5,,Trolling,TR,Nomura & Costa (1966)
+BRA,NE,CE,1965,Scomberomorus cavalla,KGM,,77.5,,Trolling,TR,Menezes (1969)
+BRA,NE,CE,1965,Scomberomorus brasiliensis,BRS,,65.05,,Trolling,TR,Costa & Paiva (1966)
+BRA,NE,CE,1965,Scomberomorus cavalla,KGM,,87.55,,Trolling,TR,Costa & Paiva (1966)
+BRA,NE,CE,1965,Scomberomorus brasiliensis,BRS,,51.8,,Trolling,TR,Nomura (1967)
+BRA,NE,CE,1965,Scomberomorus brasiliensis,BRS,,35.8,,Trolling,TR,Bastos (1966)
+BRA,NE,CE,1966,Scomberomorus brasiliensis,BRS,,67.5,,Trolling,TR,Costa & Paiva (1967)
+BRA,NE,CE,1966,Scomberomorus cavalla,KGM,,77.2,,Trolling,TR,Alves & Tomé (1966)
+BRA,NE,CE,1966,Scomberomorus cavalla,KGM,,78,,Trolling,TR,Nomura & Rodrigues (1967)
+BRA,NE,CE,1966,Scomberomorus cavalla,KGM,,85.5,,Trolling,TR,Costa & Paiva (1967)
+BRA,NE,CE,1967,Scomberomorus cavalla,KGM,,80,,Trolling,TR,Alves & Tomé (1967)
+BRA,,,1968,,,,,,,,
+BRA,SE,RJ,1969,Acanthocybium solandri,WAH,,144.7,21.8,Rod and reel,RR,Arfelli et al. (1994)
+BRA,NE,CE,1969,Scomberomorus cavalla,KGM,,71.9,,Trolling,TR,Ivo (1972)
+BRA,SE,RJ,1970,Acanthocybium solandri,WAH,,138.3,18.4,Rod and reel,RR,Arfelli et al. (1994)
+BRA,SE,RJ,1971,Acanthocybium solandri,WAH,,136.2,17.4,Rod and reel,RR,Arfelli et al. (1994)
+BRA,SE,RJ,1971,Thunnus atlanticus,BLF,75.8,70.5,6,Rod and reel,RR,Arfelli et al. (1994)
+BRA,SE,RJ,1972,Acanthocybium solandri,WAH,,137.2,17.9,Rod and reel,RR,Arfelli et al. (1994)
+BRA,SE,RJ,1972,Thunnus atlanticus,BLF,72.5,67.49,5.25,Rod and reel,RR,Arfelli et al. (1994)
+BRA,SE,SP,1972,Thunnus atlanticus,BLF,,64.5,10,Long line,LL,Camin (1974)
+BRA,SE,RJ,1973,Acanthocybium solandri,WAH,,118.71,10.45,Rod and reel,RR,Arfelli et al. (1994)
+BRA,NE,CE,1973,Scomberomorus cavalla,KGM,,47,,Trolling,TR,Pitombeira et al. (1973)
+BRA,SE,RJ,1973,Thunnus atlanticus,BLF,66.32,61.67,4,Rod and reel,RR,Arfelli et al. (1994)
+BRA,SE,RJ,1974,Acanthocybium solandri,WAH,,141.01,19.8,Rod and reel,RR,Arfelli et al. (1994)
+BRA,SE,RJ,1974,Thunnus atlanticus,BLF,71.4,66.41,5,Rod and reel,RR,Arfelli et al. (1994)
+BRA,NE,CE,1974,Euthynnus alletteratus,LTA,,56.5,,Trolling,TR,Menezes & Aragão (1977)
+BRA,SE,RJ,1975,Acanthocybium solandri,WAH,,140.87,19.7,Rod and reel,RR,Arfelli et al. (1994)
+BRA,NE,CE,1975,Scomberomorus brasiliensis,BRS,,47.55,,Trolling,TR,Gesteira & Mesquita (1976)
+BRA,NE,CE,1975,Scomberomorus cavalla,KGM,,75.55,,Trolling,TR,Gesteira & Mesquita (1976)
+BRA,SE,SP,1975,Coryphaena hippurus,DOL,,95.1,,Long line,LL,Camin (1986)
+BRA,NE,CE,1976,Scomberomorus brasiliensis,BRS,,55.95,,Trolling,TR,Ximenes (1981)
+BRA,SE,RJ,1976,Acanthocybium solandri,WAH,,132.27,15.6,Rod and reel,RR,Arfelli et al. (1994)
+BRA,SE,RJ,1977,Acanthocybium solandri,WAH,,138.5,18.5,Rod and reel,RR,Arfelli et al. (1994)
+BRA,NE,RN,1977,Acanthocybium solandri,WAH,,133.6,16.2,Trolling,TR,Moreira (1978)
+BRA,NE,RN,1977,Thunnus atlanticus,BLF,69.47,64.6,4.6,Trolling,TR,Moreira (1978)
+BRA,NE,RN,1977,Coryphaena hippurus,DOL,,96.6,7.9,Trolling,TR,Moreira (1978)
+BRA,NE,RN,1977,Euthynnus alletteratus,LTA,,48.6,1.8,Trolling,TR,Moreira (1978)
+BRA,NE,RN,1977,Scomberomorus cavalla,KGM,,87.5,5,Trolling,TR,Moreira (1978)
+BRA,NE,CE,1977,Euthynnus alletteratus,LTA,,56.5,,Trolling,TR,Menezes & Aragão (1977)
+BRA,SE,RJ,1978,Acanthocybium solandri,WAH,,134.2,16.5,Rod and reel,RR,Arfelli et al. (1994)
+BRA,SE,RJ,1978,Thunnus atlanticus,BLF,79.8,73.47,7,Rod and reel,RR,Arfelli et al. (1994)
+BRA,,,1975,,,,,,,,
+BRA,,,1976,,,,,,,,
+BRA,,,1977,,,,,,,,
+BRA,,,1979,,,,,,,,
+BRA,SE,RJ,1980,Coryphaena hippurus,DOL,,78.6,5,Trolling,TR,Ávila-da-Silva et al. (2000)
+BRA,SE,RJ,1980,Thunnus atlanticus,BLF,64.04,59.55,3.59,Trolling,TR,Haimovici et al. (2007)
+BRA,SE,RJ,1980,Acanthocybium solandri,WAH,,136.53,17.54,Trolling,TR,Haimovici et al. (2007)
+BRA,SE,RJ,1980,Coryphaena hippurus,DOL,,100.18,8.9,Trolling,TR,Haimovici et al. (2007)
+BRA,SE,RJ,1980,Euthynnus alletteratus,LTA,,60.59,3.3,Trolling,TR,Haimovici et al. (2007)
+BRA,NE,CE,1981,Scomberomorus brasiliensis,BRS,,55.95,,Trolling,TR,Ximenes (1981)
+BRA,,,1981,,,,,,,,
+BRA,,,1982,,,,,,,,
+BRA,,,1983,,,,,,,,
+BRA,,,1984,,,,,,,,
+BRA,SE,SP,1985,Coryphaena hippurus,DOL,,95.1,,Long line,LL,Camin (1986)
+BRA,,,1986,,,,,,,,
+BRA,SE,RJ,1987,Coryphaena hippurus,DOL,,93.5,,Hand line,HL,Camin et al. (1991)
+BRA,SE,RJ,1987,Thunnus atlanticus,BLF,,54.5,,Hand line,HL,Camin et al. (1991)
+BRA,,,1988,,,,,,,,
+BRA,,,1989,,,,,,,,
+BRA,SE,RJ,1990,Coryphaena hippurus,DOL,,78.6,5,Trolling,TR,Ávila-da-Silva et al. (2000)
+BRA,,,1991,,,,,,,,
+BRA,NE,PE,1992,Coryphaena hippurus,DOL,,96.5,,Long line,LL,Vasque-Júnior & Lessa (2004)
+BRA,,,1993,,,,,,,,
+BRA,NE,PE,1994,Acanthocybium solandri,WAH,,115,,Trolling,TR,Vasque-Júnior et al. (2003)
+BRA,,,1995,,,,,,,,
+BRA,S,RS,1996,Coryphaena hippurus,DOL,106.5,90.5,,Unclear,UN,Clemente et al. (2001)
+BRA,NE,RN,1996,Thunnus atlanticus,BLF,,55,5.4,Hand line,HL,Freire et al. (2005)
+BRA,,,1997,,,,,,,,
+BRA,,,1998,,,,,,,,
+BRA,NE,MA,1998,Scomberomorus brasiliensis,BRS,,46.4,,Gillnet,GN,Lima et al. (2009)
+BRA,NE,ALL,1998,Scomberomorus brasiliensis,BRS,,43.5,,Gillnet,GN,Nóbrega (2002)
+BRA,NE,PI,1998,Scomberomorus brasiliensis,BRS,,37.2,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,CE,1998,Scomberomorus brasiliensis,BRS,,36.3,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,RN,1998,Scomberomorus brasiliensis,BRS,,40.1,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,PE,1998,Scomberomorus brasiliensis,BRS,,45.4,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,AL,1998,Scomberomorus brasiliensis,BRS,,45.4,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,BA,1998,Scomberomorus brasiliensis,BRS,,46,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,ALL,1998,Thunnus atlanticus,BLF,,61.3,,Hand line,HL,Freire et al. (1998)
+BRA,NE,ALL,1998,Scomberomorus cavalla,KGM,,73.8,,Hand line,HL,Nóbrega & Lessa (2009)
+BRA,NE,PE,1998,Acanthocybium solandri,WAH,,130,,Trolling,TR,Viana et al. (2013)
+BRA,NE,PE,1998,Acanthocybium solandri,WAH,,128.4,,Trolling,TR,Vasque-Júnior et al. (2008)
+BRA,NE,PE,1998,Coryphaena hippurus,DOL,,91.4,,Trolling,TR,Vasque-Júnior et al. (2008)
+BRA,NE,PE,1998,Acanthocybium solandri,WAH,,120,,Trolling,TR,Viana et al. (2008)
+BRA,,,1999,,,,,,,,
+BRA,,,2000,,,,,,,,
+BRA,NE,RN,2001,Thunnus atlanticus,BLF,,63,3.5,Unclear,UN,Vieira et al. (2005)
+BRA,NE,ALL,2001,Scomberomorus brasiliensis,BRS,,43.5,,Gillnet,GN,Nóbrega (2002)
+BRA,NE,MA,2001,Scomberomorus brasiliensis,BRS,,46.4,,Gillnet,GN,Lima et al. (2009)
+BRA,NE,PI,2001,Scomberomorus brasiliensis,BRS,,37.2,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,CE,2001,Scomberomorus brasiliensis,BRS,,36.3,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,RN,2001,Scomberomorus brasiliensis,BRS,,40.1,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,PE,2001,Scomberomorus brasiliensis,BRS,,45.4,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,AL,2001,Scomberomorus brasiliensis,BRS,,45.4,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,ALL,2001,Scomberomorus cavalla,KGM,,73.8,,Hand line,HL,Nóbrega & Lessa (2009)
+BRA,NE,BA,2001,Scomberomorus brasiliensis,BRS,,46,,Gillnet,GN,Lucena et al. (2004)
+BRA,NE,ALL,2001,Coryphaena hippurus,DOL,,101.3,,Unclear,UN,Lessa & Santana (2016)
+BRA,SE,RJ,2002,Auxis thazard,FRI,,45.1,0.6,Long line,LL,Pimenta et al. (2007)
+BRA,SE,RJ,2002,Scomberomorus cavalla,KGM,,110.17,10,Long line,LL,Pimenta et al. (2007)
+BRA,SE,RJ,2002,Acanthocybium solandri,WAH,,146.8,23,Long line,LL,Pimenta et al. (2007)
+BRA,SE,RJ,2002,Coryphaena hippurus,DOL,,109.58,12,Long line,LL,Pimenta et al. (2007)
+BRA,NE,PE,2002,Acanthocybium solandri,WAH,,115,,Trolling,TR,Vaske-Júnior et al. (2003)
+BRA,NE,RN,2003,Scomberomorus brasiliensis,BRS,41.95,37.25,,Unclear,UN,Lima et al. (2007)
+BRA,NE,PE,2004,Acanthocybium solandri,WAH,,128.4,,Trolling,TR,Vasque-Júnior et al. (2008)
+BRA,NE,PE,2004,Coryphaena hippurus,DOL,,91.4,,Trolling,TR,Vasque-Júnior et al. (2008)
+BRA,NE,PE,2004,Acanthocybium solandri,WAH,,123.4,,Unclear,UN,Melo & Lessa (2009)
+BRA,,,2005,,,,,,,,
+BRA,NE,PE,2006,Acanthocybium solandri,WAH,,120,,Trolling,TR,Viana et al. (2008)
+BRA,SE,RJ,2007,Scomberomorus cavalla,KGM,110.5,93.5,,Unclear,UN,Dias et al. (2015)
+BRA,,,2008,,,,,,,,
+BRA,NE,PE,2009,Acanthocybium solandri,WAH,,123.4,,Unclear,UN,Melo & Lessa (2009)
+BRA,NE,CE,2009,Scomberomorus brasiliensis,BRS,65.7,59.13,,Unclear,UN,Costa & Lacerda (2009)
+BRA,NE,CE,2009,Scomberomorus cavalla,KGM,82.2,72.33,,Unclear,UN,Costa & Lacerda (2009)
+BRA,SE,RJ,2009,Coryphaena hippurus,DOL,,53,,Unclear,UN,Marques & Alves (2011)
+BRA,NE,PE,2010,Thunnus atlanticus,BLF,76,71,,Unclear,UN,Bezerra et al. (2011)
+BRA,,,2011,,,,,,,,
+BRA,,,2012,,,,,,,,
+BRA,N,PA,2013,Scomberomorus brasiliensis,BRS,57.93,52.13,,Gillnet,GN,Maia et al. (2015)
+BRA,SE,RJ,2014,Coryphaena hippurus,DOL,,77,,Unclear,UN,Almeida et al. (2020)
+BRA,SE,RJ,2014,Coryphaena hippurus,DOL,92.5,78.62,6.7,Unclear,UN,Silva et al. (2017)
+BRA,,,2015,,,,,,,,
+BRA,SE,RJ,2016,Coryphaena hippurus,DOL,,77,,Unclear,UN,Almeida et al. (2020)
+BRA,NE,PE,2017,Auxis thazard,FRI,40.25,39.2,,Trolling,TR,Bezerra et al. (2020)
+BRA,SE,RJ,2018,Euthynnus alletteratus,LTA,,55.5,,Unclear,UN,Vieira et al. (2021)
+BRA,,,2019,,,,,,,,
+BRA,S,PR,2020,Scomberomorus brasiliensis,BRS,,46,,Gillnet,GN,Chaves & Birnfeld (2023)
+BRA,S,PR,2021,Scomberomorus brasiliensis,BRS,,49.4,,Gillnet,GN,Chaves et al. (2021)
+BRA,,,2022,,,,,,,,
